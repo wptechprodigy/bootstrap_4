@@ -4,7 +4,7 @@ under javascript.
 In this project I demonstatrate the knowledge of how
 to SELECT and MANIPULATE elements from the DOM.
 
-document.querySelector, element.selectElementsByX, 
+document.querySelector, element.getElementsByX, 
 .textContent, .innerHTML and other selectors and manipulators were used.
 
 Lol...just getting round this stuff.
